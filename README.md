@@ -15,10 +15,10 @@ Concepts You Will Learn :
 
 You can Subscribe to my youtube channel to learn and build more such amazing projects. I have tutorials on :
 
--Node.JS
--React.JS
--Mongodb
--Express
--and many more amazing concepts and technologies
+- Node.JS
+- React.JS
+- Mongodb
+- Express
+- and many more amazing concepts and technologies
 
 Channel Link : https://www.youtube.com/c/LamaDev
